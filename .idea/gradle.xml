@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/lab-1" />
+            <option value="$PROJECT_DIR$/lab-1/bl-ch1-a" />
+            <option value="$PROJECT_DIR$/lab-1/bl-ch1-b" />
+            <option value="$PROJECT_DIR$/lab-1/task-1" />
+            <option value="$PROJECT_DIR$/lab-1/task-2" />
+            <option value="$PROJECT_DIR$/lab-1/task-3" />
+            <option value="$PROJECT_DIR$/lab-2" />
+            <option value="$PROJECT_DIR$/lab-2/bl-ch2-a" />
+            <option value="$PROJECT_DIR$/lab-2/bl-ch2-b" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
