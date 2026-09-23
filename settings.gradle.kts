@@ -1,4 +1,4 @@
-rootProject.name = "laboratory-works"
+rootProject.name = "java-oop-labs"
 
 include("lab-1:task-1")
 include("lab-1:task-2")
@@ -8,3 +8,6 @@ include("lab-1:bl-ch1-b")
 include("lab-2")
 include("lab-2:bl-ch2-a")
 include("lab-2:bl-ch2-b")
+include("lab-2:sro-1")
+include("lab-2:sro-2")
+include("lab-2:task-1")
