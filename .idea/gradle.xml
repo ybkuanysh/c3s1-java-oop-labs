@@ -9,17 +9,19 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/lab-1" />
-            <option value="$PROJECT_DIR$/lab-1/bl-ch1-a" />
-            <option value="$PROJECT_DIR$/lab-1/bl-ch1-b" />
             <option value="$PROJECT_DIR$/lab-1/task-1" />
             <option value="$PROJECT_DIR$/lab-1/task-2" />
+            <option value="$PROJECT_DIR$/lab-1/task-2-new" />
             <option value="$PROJECT_DIR$/lab-1/task-3" />
             <option value="$PROJECT_DIR$/lab-2" />
-            <option value="$PROJECT_DIR$/lab-2/bl-ch2-a" />
-            <option value="$PROJECT_DIR$/lab-2/bl-ch2-b" />
             <option value="$PROJECT_DIR$/lab-2/sro-1" />
             <option value="$PROJECT_DIR$/lab-2/sro-2" />
-            <option value="$PROJECT_DIR$/lab-2/task-1" />
+            <option value="$PROJECT_DIR$/lab-2/task-2" />
+            <option value="$PROJECT_DIR$/lab-3" />
+            <option value="$PROJECT_DIR$/lab-3/sro-3" />
+            <option value="$PROJECT_DIR$/lab-3/task-2" />
+            <option value="$PROJECT_DIR$/lab-4" />
+            <option value="$PROJECT_DIR$/lab-4/task-1" />
           </set>
         </option>
       </GradleProjectSettings>
